@@ -34,3 +34,5 @@ def create_csv(channel_id):
                 has_another_page = False 
 
 create_csv(channel_id)
+
+"""Based on an exercise in Lam Thuy Vo's "Mining Social Media", No Starch Press, 2020"""
